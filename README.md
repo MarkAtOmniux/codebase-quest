@@ -1,4 +1,4 @@
-# Codebase Quest
+# Codebase Quest 🎯
 
 Learn the part of a codebase you have never touched, by building the change yourself.
 
@@ -26,12 +26,12 @@ The agent reads the implementation and the tests before it teaches anything. The
 
 | Lesson | What you do | Points |
 | --- | --- | --- |
-| Find where a campaign is created | Trace the code and name the function | 2 |
-| Predict a missing budget | Say what happens today, and which test locks it in | 2 |
-| Add the budget field | Write the change, following the existing pattern | 6 |
-| Cover it with tests | Write the tests and get them passing | 4 |
+| 🔍 Find where a campaign is created | Trace the code and name the function | 2 |
+| 🔍 Predict a missing budget | Say what happens today, and which test locks it in | 2 |
+| 🛠️ Add the budget field | Write the change, following the existing pattern | 6 |
+| 🧪 Cover it with tests | Write the tests and get them passing | 4 |
 
-The first lessons are recon. You read, predict, and point at the code. Later lessons are build lessons. The agent tells you what to change and why, and shows you the pattern already in the repo. You write the code. It runs the tests, reads your diff, and checks the lesson off when the work holds.
+The first lessons are 🔍 recon. You read, predict, and point at the code. Later lessons are 🛠️ build lessons, and a test lesson is marked 🧪. The agent tells you what to change and why, and shows you the pattern already in the repo. You write the code. It runs the tests, reads your diff, and checks the lesson off when the work holds.
 
 You can see every lesson and its points from the start. Coaching stays on the current lesson until those checks pass. Ask for a hint and you get the file, the pattern, and the shape of the change.
 

@@ -16,10 +16,10 @@ total: 14
 
 | # | Lesson | Kind | Points | Status |
 |---|--------|------|--------|--------|
-| 1 | Find where a campaign is created | recon | 2 | current |
-| 2 | Predict a missing budget | recon | 2 | locked |
-| 3 | Add the budget field | build | 6 | locked |
-| 4 | Cover it with tests | build | 4 | locked |
+| 1 | Find where a campaign is created | 🔍 recon | 2 | 👉 current |
+| 2 | Predict a missing budget | 🔍 recon | 2 | 🔒 locked |
+| 3 | Add the budget field | 🛠️ build | 6 | 🔒 locked |
+| 4 | Cover it with tests | 🧪 build | 4 | 🔒 locked |
 
 ## Lesson 1 — Find where a campaign is created
 

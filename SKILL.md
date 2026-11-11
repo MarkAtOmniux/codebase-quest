@@ -57,6 +57,8 @@ Lesson points are the sum of that lesson's check points. `total` is the sum of t
 
 Show every lesson title and its points from the start. Read a lesson's guidance aloud only while it is current.
 
+Use one mark on the scoreboard, and nowhere else. 🔍 for a recon lesson, 🛠️ for a build lesson, 🧪 when the build lesson is tests. 👉 for the current lesson, 🔒 for a locked one, ✅ for a passed one. Guidance, checks, and facilitator notes stay plain text.
+
 When the last lesson passes, set `status: complete` and report earned over total.
 
 ## Quest file

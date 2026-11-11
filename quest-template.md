@@ -11,8 +11,8 @@ total: 0
 
 | # | Lesson | Kind | Points | Status |
 |---|--------|------|--------|--------|
-| 1 |  | recon | 0 | current |
-| 2 |  | build | 0 | locked |
+| 1 |  | 🔍 recon | 0 | 👉 current |
+| 2 |  | 🛠️ build | 0 | 🔒 locked |
 
 ## Lesson 1 — 
 
